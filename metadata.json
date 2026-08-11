@@ -1,0 +1,6 @@
+{
+  "name": "Monitor de Tornados, Céu e Clima em Tempo Real",
+  "description": "Aplicação interativa em tempo real para monitoramento de tornados, tempestades severas, radar ao vivo, visão de satélite, mapa térmico e análise do céu com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
